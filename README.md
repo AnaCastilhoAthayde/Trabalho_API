@@ -1,7 +1,7 @@
  Apresentação: Engenharia de API / Integração
 
-Este projeto é um **site-slide interativo** criado para servir como apresentação de uma pesquisa sobre **Engenharia de API e Integração**.  
-O site contém **10 slides** com conteúdos sobre:
+Este projeto é criado para servir como apresentação de uma pesquisa sobre **Engenharia de API e Integração**.  
+Com conteúdos sobre:
 
 - Definição do cargo
 - Responsabilidades principais
@@ -12,9 +12,6 @@ O site contém **10 slides** com conteúdos sobre:
 - Projeto prático sugerido
 - Riscos e tendências futuras
 - Referências
-
-Cada slide possui **fundo temático**, tornando a apresentação mais visual, dinâmica e criativa.  
-O design é responsivo, garantindo ótima visualização em **projetores, notebooks e dispositivos móveis**.
 
  Tecnologias usadas
 
@@ -28,10 +25,9 @@ O design é responsivo, garantindo ótima visualização em **projetores, notebo
 O site pode ser hospedado em qualquer servidor ou serviço gratuito como:
 
 - GitHub Pages
-- Netlify
-- Vercel
 
 **Link público do site:**  
 [Coloque aqui o link para todos acessarem]
 
+dev.ana_
 
