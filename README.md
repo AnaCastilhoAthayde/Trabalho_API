@@ -29,5 +29,8 @@ O site pode ser hospedado em qualquer servidor ou serviço gratuito como:
 **Link público do site:**  
 https://anacastilhoathayde.github.io/Trabalho_API/
 
+**Video explicando sobre API e oque ela realmente faz** utilizado para minha apresentação
+https://www.youtube.com/watch?v=Q-lyQ7BdDXE
+
 dev.ana_
 
