@@ -27,7 +27,7 @@ O site pode ser hospedado em qualquer servidor ou serviço gratuito como:
 - GitHub Pages
 
 **Link público do site:**  
-[Coloque aqui o link para todos acessarem]
+https://anacastilhoathayde.github.io/Trabalho_API/
 
 dev.ana_
 
