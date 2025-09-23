@@ -20,7 +20,9 @@ Com conteúdos sobre:
 - **JavaScript** – Navegação entre os slides (botões e setas do teclado)
 - **Google Fonts** – Fonte Poppins para títulos e textos
 - **Imagens externas** – Fundos de slides (via links ou pasta `img/`)
- Como acessar
+
+ 
+ Como acessar:
 
 O site pode ser hospedado em qualquer servidor ou serviço gratuito como:
 
